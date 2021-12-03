@@ -1,0 +1,2 @@
+# gaussian_method
+# DataAnalyseProject
